@@ -60,7 +60,6 @@ class Student
       SELECT *
       FROM students
       WHERE grade = 10
-      ORDER BY grade ASC
       LIMIT ?
       SQL
 

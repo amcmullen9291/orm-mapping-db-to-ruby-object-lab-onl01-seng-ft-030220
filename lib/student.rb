@@ -90,4 +90,5 @@ def self.new_from_db(row)
         self.new_from_db(row)
       end
   end
+  
 end
